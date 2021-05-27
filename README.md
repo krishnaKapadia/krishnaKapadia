@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer who's love for business and saas products is slowly driving me crazy!</h3>
+<h3 align="center">A passionate frontend developer who's love for business and saas products is slowly driving him crazy!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakapadia&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakapadia" /> </p>
 
