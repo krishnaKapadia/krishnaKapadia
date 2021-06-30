@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **krishnakapadia@live.com**
 
-- ⚡ Fun fact **I have founded 3 different startups.**
+- ⚡ Fun fact **I have founded 2 different startups.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
